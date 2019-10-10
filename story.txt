@@ -5,6 +5,12 @@ and always on top of it. Every weekday right as the first of the children start 
 light up, a soft humming noise is heard for a few seconds, followed by a booming "GOOOOD MORNING!" or a
 "WONDERFUL DAY WE'RE HAVING!", or anything really, but never anything negative, and always something loud.
 Robbie the crossing robot was always excited to do his job. And the kids loved seeing him! His purpose wasn't
-just safety, but also to bring some liveliness and joy to anyone around him.
+<<<<<<< HEAD
+  to do his job but it was to provide for his family. He was so proud because his family was eating well, had a roof on their heads and were able to recieve an amazing education. This feeling was the reason why he kept returning to work and this was enough for him. 
+just safety, but also to bring some liveliness and joy to anyone around him. 
+One day robbie was working when he was attacked by a wild pack of seaguls. He didnt have anything to defend himself and the seaguls would not stop.
+From inside the school one young boy named Kevin spotted this attack and rushed to save his dear friend robbie. As kevin swatted each seagull they left robbie alone. Scared and covered in scratch marks, robbie lifted kevin up and played a song for him. From that day foward no seagul ever attacked 
+robbie again!
 
-"With great power comes great responsibility" these were the words that his master said before teaching him the ways of mixed martial arts. At this very moment,no words could express his excitement and so he nodded his head vigorously.His pupils dilated, his grin turned into a wide smile and this moment felt surreal. Ever since Jack was young he had dreamed of becoming a world-renown mixed martial artist. He watched every televised UFC fight and had posters of the league's best fighters on his bedroom wall. As he was watching those matches, he imagined being in the octagon, fighting for his pride, honor, the crowd chanting his name and he could feel the adrenaline martial arts brought to his life. To Jack, martial arts was not a sport to entertain the masses, it was his lifelong dream. He realized that this was the first step to attaining the life he fantasizes about. 
+
+>>>>>>> d14c55be04df0e6330a83ce60b92892cb43c8515
